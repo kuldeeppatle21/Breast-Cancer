@@ -4,7 +4,7 @@
 
 Breast Cancer Classification:
 
--> Predicting if the cancer diagnosis is benign or malignant based on several observations/features
+-> Predicting if the cancer diagnosis is benign or malignant based on several observations/features.
 
 -> 30 features are used, examples:
 
@@ -29,10 +29,10 @@ Breast Cancer Classification:
  
  # Conclusion:
  
--> Machine learning techniques (SVM) was able to classify tumors into Malignant/Benign with 97% accuracy
+-> Machine learning techniques (SVM) was able to classify tumors into Malignant/Benign with 97% accuracy.
 
--> The technique can rapidly evaluate breast masses and classify them in a automated fasion/
+-> The technique can rapidly evaluate breast masses and classify them in a automated fasion.
 
--> The technique can be further imporoved by combining Computer Vision/ML techniques to directly classify cancer using the tissue images
+-> The technique can be further imporoved by combining Computer Vision/ML techniques to directly classify cancer using the tissue images.
  
  
